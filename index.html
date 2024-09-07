@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2048 Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>2048 Game</h1>
+        <div id="game-container">
+            <div id="game-board"></div>
+            <div id="game-over">
+                <p>Game Over!</p>
+                <button id="restart-btn">Restart</button>
+            </div>
+        </div>
+        <div id="score">Score: <span id="score-value">0</span></div>
+    </div>
+    <audio id="merge-sound" src="merge.mp4"></audio>
+    <audio id="game-over-sound" src="game-over.mp4"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
