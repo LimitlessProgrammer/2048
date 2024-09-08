@@ -56,7 +56,7 @@ You can try the game [here](https://limitlessprogrammer.github.io/2048/)
 
 ## 🎥 YouTube Walkthrough
 
-Watch a full walkthrough of how this game was built on my YouTube channel, [Limitless Programmer](https://www.youtube.com/LimitlessProgrammer).
+Watch a full walkthrough of how this game was built on my YouTube channel, [Limitless Programmer](https://www.youtube.com/@LimitlessProgrammer).
 
 ## 🔧 Future Improvements
 
