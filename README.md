@@ -6,7 +6,7 @@
 
 A web-based version of the classic **2048 puzzle game** built using **HTML**, **CSS**, and **JavaScript**. Combine tiles with the same numbers to reach the **2048 tile**. Challenge yourself to reach the highest score!
 
-![Screenshot](https://github.com/LimitlessProgrammer/2048/Screenshot 2024-09-05 193008.png)
+![Screenshot](img.png)
 
 ## 🚀 Live Demo
 
